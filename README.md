@@ -26,7 +26,7 @@ I'm a Full-Stack Software Engineer & Security Enthusiast! ⚛️ 🌐 🛡️
 [<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='C++' height='36'>]()
 [<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='PHP' height='36'>]()
 [<img src='https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white' alt='Delphi' height='36'>]()
-[<img src='https://img.shields.io/badge/Visual_Basic_6-005A9E?style=for-the-badge&logo=visualstudio&logoColor=white' alt='Visual Basic 6' height='36'>]()
+[<img src='https://custom-icon-badges.demolab.com/badge/Visual_Basic_6-005A9E?style=for-the-badge&logo=vb&logoColor=white' alt='Visual Basic 6' height='36'>]()
 [<img src='https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white' alt='VB.NET' height='36'>]()
 
 ### 🌐 Frontend & Mobile

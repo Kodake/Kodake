@@ -18,7 +18,7 @@ I'm a Full-Stack Software Engineer & Security Enthusiast! ⚛️ 🌐 🛡️
 ## Skills 🚀
 
 ### 💻 Languages
-[<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white' alt='C#' height='36'>]()
+[<img src='https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white' alt='C#' height='36'>]()
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' alt='Java' height='36'>]()
 [<img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white' alt='Dart' height='36'>]()
 [<img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' height='36'>]()

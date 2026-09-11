@@ -9,7 +9,7 @@ I'm a Full-Stack Software Engineer & Security Enthusiast! ⚛️ 🌐 🛡️
 - 🥋 **Outside of Coding:** Taekwondo practitioner and Baseball enthusiast!
 - 💻 **Modern Stack:**
   - **Backend:** .NET, Spring Boot, Node.js, NestJS
-  - **Frontend & Mobile:** TypeScript, Angular, React, Flutter, Dart
+  - **Frontend & Mobile:** TypeScript, Angular, React, Astro, Flutter, Dart
 - 🏛️ **Legacy & Modernization:** Hands-on experience maintaining and migrating mission-critical legacy systems (Delphi, Visual Basic 6, ASP.NET WebForms, Windows Forms, jQuery).
 - 💬 **Ask me about:** Full-stack architecture, legacy modernization, web security & recon, mobile development, or martial arts.
 
@@ -34,6 +34,7 @@ I'm a Full-Stack Software Engineer & Security Enthusiast! ⚛️ 🌐 🛡️
 [<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' height='36'>]()
 [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' height='36'>]()
 [<img src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='Next.js' height='36'>]()
+[<img src='https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white' alt='Astro' height='36'>]()
 [<img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D' alt='Vue.js' height='36'>]()
 [<img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery' height='36'>]()
 
